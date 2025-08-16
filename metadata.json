@@ -1,0 +1,5 @@
+{
+  "name": "EgyptAir E-Ticket Generator",
+  "description": "A web application that allows users to generate a mock EgyptAir flight ticket receipt by filling out a form. The generated ticket can be printed or saved as a PDF.",
+  "requestFramePermissions": []
+}
